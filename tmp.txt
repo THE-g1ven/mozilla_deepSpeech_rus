@@ -1,1 +1,1 @@
-
+./DeepSpeech.py --train_files $HOME/speech_test/speech_data/clips/train.csv --dev_files $HOME/speech_test/speech_data/clips/dev.csv --test_files $HOME/speech_test/speech_data/clips/test.csv --checkpoint_dir $HOME/speech_test/speech_data
